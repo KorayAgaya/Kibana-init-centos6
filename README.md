@@ -1,0 +1,1 @@
+# Kibana-init-centos6
